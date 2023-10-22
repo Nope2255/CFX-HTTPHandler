@@ -1,6 +1,6 @@
 # CFX-HTTPHandler for FiveM
 
-### Installation
+### Changes
 
 If you want to have Debug Prints
 Add this to your `server.cfg`:
